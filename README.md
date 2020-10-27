@@ -1,6 +1,6 @@
 # SearchForIt
 # Tema de proyecto
-- Proporcionar información relevante sobre los diversos paises europeos.
+- Proporcionar información relevante sobre los diversos paises europeos (Bolivia no incluida).
 Las distintos datos que se podrán ver en la página son:
   - Comidas típicas
   - Clima
@@ -13,8 +13,8 @@ Las distintos datos que se podrán ver en la página son:
  
  
  # Integrantes del equipo
-  - Andrei Bineata (Cerdo alias el porcino)
-  - Jaime Castel 
+  - Andrei Bineata
+  - Jaime Castel
   - Alex Ayuso
   - Pedro Sotelo 
 
