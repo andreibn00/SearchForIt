@@ -13,8 +13,8 @@ Las distintos datos que se podrán ver en la página son:
  
  
  # Integrantes del equipo
-  - Andrei Bineata
-  - Jaime Castel (alimaña)
+  - Andrei Bineata (Cerdo alias el porcino)
+  - Jaime Castel 
   - Alex Ayuso
   - Pedro Sotelo 
 
