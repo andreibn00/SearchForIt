@@ -12,9 +12,9 @@ Las distintos datos que se podrán ver en la página son:
  
  
  
- #Integrantes del equipo
- -Andrei Bineata(cerdo)
- -Jaime Castel
+ # Integrantes del equipo
+ -Andrei Bineata
+ -Jaime Castel (alimaña)
  -Alex Ayuso
- -Pedro Sotelo
+ -Pedro Sotelo 
 
