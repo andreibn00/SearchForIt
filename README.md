@@ -8,13 +8,13 @@ Las distintos datos que se podrán ver en la página son:
   -Población
   -Economía(Media de precios de hoteles)
   -Noticias actuales
-  
-  
-  
-  
+ 
+ 
+ 
+ 
  #Integrantes del equipo
  -Andrei Bineata
  -Jaime Castel
  -Alex Ayuso
  -Pedro Sotelo
- 
+
