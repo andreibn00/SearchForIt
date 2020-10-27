@@ -17,4 +17,3 @@ Las distintos datos que se podrán ver en la página son:
   - Jaime Castel
   - Alex Ayuso
   - Pedro Sotelo 
-
